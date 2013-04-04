@@ -1,0 +1,9 @@
+{
+  "require": {
+    "kriswallsmith/assetic": "dev-master",
+    "leafo/lessphp": "dev-master",
+    "leafo/scssphp": "dev-master",
+    "leafo/scssphp-compass": "dev-master",
+    "natxet/CssMin": "dev-master"
+  }
+}
